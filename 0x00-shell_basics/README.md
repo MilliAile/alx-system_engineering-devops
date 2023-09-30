@@ -11,9 +11,10 @@
 11_previous directory
 12_list all files in cd, parent and boot
 13_type of file
-
+14_symbolic_link
 15_copy all .html to parent
 16_all files starting with uppercase be moved
 17_delete all that ends with ~ from current dir
 18_create tree directory
 19_commas separated list
+20_
